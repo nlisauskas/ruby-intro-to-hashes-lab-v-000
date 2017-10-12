@@ -23,7 +23,7 @@ def monopoly_with_second_tier
 
 			},
 			rent_in_dollars: {
-			
+
 			}
 		}
 	}
@@ -36,6 +36,9 @@ def monopoly_with_third_tier
 			pieces: 4,
 			names: {
 				reading_railroad: {
+					
+				},
+				pennsylvania_railroad: {
 					
 				}
 			},
